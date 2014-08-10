@@ -1,0 +1,7 @@
+django
+psycopg2
+djangorestframework
+django-rest-swagger
+django-oauth2-provider
+django-filter
+django-simple-history
